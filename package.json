@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_clima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmartinez-dev/nodejs_clima.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmartinez-dev/nodejs_clima/issues"
+  },
+  "homepage": "https://github.com/jdmartinez-dev/nodejs_clima#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5"
+  }
+}
